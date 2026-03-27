@@ -3,7 +3,7 @@ package cn.zqwei.flashkill.controller;
 import cn.zqwei.flashkill.entity.User;
 import cn.zqwei.flashkill.service.UserService;
 import cn.zqwei.flashkill.vo.LoginParam;
-import cn.zqwei.flashkill.vo.Result;
+import cn.zqwei.flashkill.result.Result;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
